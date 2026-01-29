@@ -5,6 +5,5 @@ package org.example;
 public class Main {
     static void main() {
         System.out.println("Heelo from master branch");
-        System.out.println("heli");
     }
 }
